@@ -1,5 +1,5 @@
 # Running an Ink Node 🐙
-
+ok
 ## Setup Instructions 🛠️
 
 ### Configuration ⚙️
